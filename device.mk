@@ -116,6 +116,10 @@ PRODUCT_PACKAGES += \
     libdrm.vendor \
     libutils-v32
 
+# Parts
+PRODUCT_PACKAGES += \
+    parts
+
 # Dexpreopt
 PRODUCT_DEXPREOPT_SPEED_APPS += \
     TrebuchetQuickStep \
