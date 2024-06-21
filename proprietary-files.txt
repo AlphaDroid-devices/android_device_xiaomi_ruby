@@ -312,7 +312,7 @@ vendor/lib/vendor.mediatek.hardware.bluetooth.audio@2.1.so
 vendor/lib/vendor.mediatek.hardware.bluetooth.audio@2.2.so
 
 # Bluetooth (Firmware) - from a34xxx-user 13 TP1A.220624.014 A346BXXU3AWF1 release-keys
-vendor/firmware/soc5_0_ram_bt_1_1_hdr.bin|da82964b87491348caf2e7ebf761cdec7cb8066e
+vendor/firmware/soc5_0_ram_bt_1_1_hdr.bin|2b2e3a83209f644623d52984700beabbb664ac56
 
 # Camera
 vendor/bin/hw/camerahalserver
@@ -1209,8 +1209,8 @@ vendor/firmware/txpowerctrl_in.cfg
 vendor/firmware/txpowerctrl_in_u.cfg
 
 # Connectivity (Firmware) - from a34xxx-user 13 TP1A.220624.014 A346BXXU3AWF1 release-keys
-vendor/firmware/soc5_0_ram_mcu_1_1_hdr.bin|4aef2e830860f76b4d0c383eb16433ecc0e1c740
-vendor/firmware/soc5_0_ram_wmmcu_1_1_hdr.bin|81f9c347afd4ee17a257cb07c4762c97c17d7db3
+vendor/firmware/soc5_0_ram_mcu_1_1_hdr.bin|ce090e9ed9107e4b7f4d5a865f902787d1fb5e58
+vendor/firmware/soc5_0_ram_wmmcu_1_1_hdr.bin|921761d63d4a96ea05264582a583d2d57385ab35
 
 # ConsumerIr
 vendor/lib64/hw/consumerir.common.so
@@ -1472,8 +1472,8 @@ system_ext/lib64/libvt_avsync.so
 system_ext/lib64/vendor.mediatek.hardware.videotelephony-V1-ndk.so
 system_ext/lib64/vendor.mediatek.hardware.videotelephony@1.0.so
 
-# IMS (App) - from ruby-user 14 UP1A.231005.007 V816.0.1.0.UMOMIXM release-keys (patched)
--system_ext/priv-app/ImsService/ImsService.apk:priv-app/ImsService/ImsService.apk|c9f70a060fe69e341caa0e0eecb06ec092e6c9f0
+# IMS (App) - from ruby-user 14 UP1A.231005.007 V816.0.4.0.UMOMIXM release-keys (patched)
+-system_ext/priv-app/ImsService/ImsService.apk:priv-app/ImsService/ImsService.apk|7de662899d0e0c8f1698f7a252de3d759fdb01cc
 
 # Keymaster
 vendor/bin/bp_kmsetkey_ca
@@ -1895,7 +1895,7 @@ vendor/lib64/libksensor.so
 vendor/lib64/libsensor_custom.so
 
 # Sensors (wrapper) - from duchamp_cn-user 14 UP1A.230905.011 V816.0.4.0.UNLCNXM release-keys
-vendor/lib64/hw/android.hardware.sensors@2.X-subhal-mediatek.so|dd5bf92c9ae85083c42b6f084fb76c3388e4d2df
+vendor/lib64/hw/android.hardware.sensors@2.X-subhal-mediatek.so|0b7b523a79d0355ef09829046ac57d6d2650621d
 
 # Sensors (citsensor)
 vendor/bin/hw/vendor.xiaomi.sensor.citsensorservice@1.1-service
@@ -1924,4 +1924,4 @@ vendor/firmware/wifi.cfg
 vendor/lib64/libwifi-hal.so:vendor/lib64/libwifi-hal-mtk.so
 
 # Wi-Fi (Firmware) - from a34xxx-user 13 TP1A.220624.014 A346BXXU3AWF1 release-keys
-vendor/firmware/WIFI_RAM_CODE_soc5_0_1_1.bin|a5eac373bd44011512f43fb0cbd38482349be367
+vendor/firmware/WIFI_RAM_CODE_soc5_0_1_1.bin|db687d6d465a3946b2cf35e26ac9db28290ed64d
